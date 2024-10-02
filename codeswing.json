@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../5.3+CSS+Selectors/5.3 CSS Selectors"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Resume"
+	}
+}
